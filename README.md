@@ -1,5 +1,7 @@
 # Plastic Debian Package Build
 
+We developed an automatic way to build .deb packages in the plastic repo so this is archieved.
+
 This repository contains the files and configurations needed to build a Debian package for **Plastic**, an NES emulator built in Rust.
 
 ## Repository Contents
